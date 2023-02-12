@@ -169,4 +169,5 @@ The recognizable commands by the interpreter are the following:
 
 ## Author
 
-Yonas Leykun
+Paradox2774 : GitHub username
+Monigiwa    : GitHub username
