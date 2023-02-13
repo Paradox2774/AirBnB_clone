@@ -170,4 +170,4 @@ The recognizable commands by the interpreter are the following:
 ## Author
 
 Paradox2774 : GitHub username
-Monigiwa    : GitHub username
+Monigiwa    : giwatitilope899@gmail.com
