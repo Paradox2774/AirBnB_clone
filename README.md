@@ -170,4 +170,4 @@ The recognizable commands by the interpreter are the following:
 ## Author
 
 Raji Fatih: Paradox2774
-Monigiwa    : giwatitilope899@gmail.com
+Kwathar Giwa: giwatitilope899@gmail.com
