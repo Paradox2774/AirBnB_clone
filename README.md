@@ -169,5 +169,5 @@ The recognizable commands by the interpreter are the following:
 
 ## Author
 
-Paradox2774 : GitHub username
+Raji Fatih: Paradox2774
 Monigiwa    : giwatitilope899@gmail.com
